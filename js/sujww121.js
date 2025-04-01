@@ -1,8 +1,8 @@
 var jsonldData = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  url: "https://yangpyeong.jianhomecare.com",
-  logo: "https://yangpyeong.jianhomecare.com/img/변기막힘하수구막힘.png",
+  url: "https://dongtan.jianhomecare.com",
+  logo: "https://dongtan.jianhomecare.com/img/변기막힘하수구막힘.png",
 };
 
 var script = document.createElement("script");

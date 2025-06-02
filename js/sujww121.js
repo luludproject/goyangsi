@@ -1,7 +1,7 @@
 var jsonldData = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  url: "https://yeongdogu.jianhomecare.com",
+  url: "https://busan-jingu.jianhomecare.com",
   logo: "https://yeongdogu.jianhomecare.com/img/변기막힘하수구막힘.png",
 };
 
